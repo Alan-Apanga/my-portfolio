@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.d639f423.css",
+    "main.js": "/my-portfolio/static/js/main.d179d29f.js",
+    "static/media/image.png": "/my-portfolio/static/media/image.3b71725ba6a72dbc8c97.png",
+    "static/media/portfolio-2.png": "/my-portfolio/static/media/portfolio-2.7f3cdd661cc4c004c11a.png",
+    "static/media/portfolio-1.png": "/my-portfolio/static/media/portfolio-1.69679fb753709a663ad3.png",
+    "static/media/portfolio-6.png": "/my-portfolio/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-4.png": "/my-portfolio/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-5.png": "/my-portfolio/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/my-portfolio/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/workforce.png": "/my-portfolio/static/media/workforce.80244d167f3c5ba7e239.png",
+    "static/media/app-design.png": "/my-portfolio/static/media/app-design.e9add4ed6922262805af.png",
+    "static/media/production.png": "/my-portfolio/static/media/production.c441793b768dab26161a.png",
+    "static/media/blending.png": "/my-portfolio/static/media/blending.0a23b32bf4c99bcb578b.png",
+    "static/media/ui-design.png": "/my-portfolio/static/media/ui-design.1e2302fbc016b077b75f.png",
+    "static/media/website-design.png": "/my-portfolio/static/media/website-design.d3acded4355ab00bf9d6.png",
+    "static/media/logo.png": "/my-portfolio/static/media/logo.a124143375f33e22f7f8.png",
+    "static/media/facebook.png": "/my-portfolio/static/media/facebook.81dd033a37c4860f7121.png",
+    "static/media/adobe.png": "/my-portfolio/static/media/adobe.a08b8360ff7b700ed0c4.png",
+    "static/media/walmart.png": "/my-portfolio/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
+    "static/media/instagram.png": "/my-portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.d639f423.css.map": "/my-portfolio/static/css/main.d639f423.css.map",
+    "main.d179d29f.js.map": "/my-portfolio/static/js/main.d179d29f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d639f423.css",
+    "static/js/main.d179d29f.js"
+  ]
+}
