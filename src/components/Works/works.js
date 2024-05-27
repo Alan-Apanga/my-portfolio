@@ -16,27 +16,27 @@ const portfolioItems = [
     {
       image: Portfolio2,
       techStack: 'Python, Gurobi, PuLP',
-      source: 'https://github.com/your-repo2',
+      source: 'https://github.com/Alan-Apanga/Capacitated-Facility-Location-Problem',
     },
     {
       image: Portfolio3,
-      techStack: 'Python, Django, PostgreSQL',
+      techStack: 'Pandas, lightgbm, PostgreSQL',
       source: 'https://github.com/your-repo3',
     },
     {
       image: Portfolio4,
-      techStack: 'Vue.js, Firebase',
-      source: 'https://github.com/your-repo4',
+      techStack: 'Monte Carlo, SimPy, Markov Chain',
+      source: 'https://github.com/Alan-Apanga/Queue_simulation',
     },
     {
       image: Portfolio5,
-      techStack: 'Angular, Express, MySQL',
-      source: 'https://github.com/your-repo5',
+      techStack: 'Javascript, HTML, CSS, Django',
+      source: 'https://github.com/Alan-Apanga/BLENDING-PROBLEM',
     },
     {
       image: Portfolio6,
-      techStack: 'Ruby on Rails, SQLite',
-      source: 'https://github.com/your-repo6',
+      techStack: 'Numpy, Pandas, PlotlyExpress',
+      source: 'https://github.com/Alan-Apanga/Sustainability-Reporting',
     },
   ];
 
