@@ -21,7 +21,7 @@ const portfolioItems = [
     {
       image: Portfolio3,
       techStack: 'Pandas, lightgbm, PostgreSQL',
-      source: 'https://github.com/your-repo3',
+      source: 'https://github.com/Alan-Apanga/Demand-Forecasting',
     },
     {
       image: Portfolio4,
