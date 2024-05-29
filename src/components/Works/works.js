@@ -20,7 +20,7 @@ const portfolioItems = [
     },
     {
       image: Portfolio3,
-      techStack: 'Pandas, lightgbm, PostgreSQL',
+      techStack: 'Scikit-Learn, Lightgbm, PostgreSQL',
       source: 'https://github.com/Alan-Apanga/Demand-Forecasting',
     },
     {
