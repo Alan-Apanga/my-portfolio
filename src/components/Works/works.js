@@ -6,6 +6,10 @@ import Portfolio3 from '../../assets/portfolio-3.png';
 import Portfolio4 from '../../assets/portfolio-4.png';
 import Portfolio5 from '../../assets/portfolio-5.png';
 import Portfolio6 from '../../assets/portfolio-6.png';
+import Portfolio7 from '../../assets/portfolio-7.png';
+import Portfolio8 from '../../assets/portfolio-8.png';
+
+
 
 const portfolioItems = [
     {
@@ -37,6 +41,16 @@ const portfolioItems = [
       image: Portfolio6,
       techStack: 'Numpy, Pandas, PlotlyExpress',
       source: 'https://github.com/Alan-Apanga/Sustainability-Reporting',
+    },
+    {
+      image: Portfolio7,
+      techStack: 'Streamlit, Pandas, Altair',
+      source: 'https://operations-dashboard.streamlit.app/',
+    },
+    {
+      image: Portfolio8,
+      techStack: 'Streamlit, Pandas, Altair',
+      source: 'https://c-level.streamlit.app/',
     },
   ];
 
