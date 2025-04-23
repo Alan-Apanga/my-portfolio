@@ -8,6 +8,7 @@ import Portfolio5 from '../../assets/portfolio-5.png';
 import Portfolio6 from '../../assets/portfolio-6.png';
 import Portfolio7 from '../../assets/portfolio-7.png';
 import Portfolio8 from '../../assets/portfolio-8.png';
+import Portfolio9 from '../../assets/portfolio-9.png';
 
 
 
@@ -50,6 +51,11 @@ const portfolioItems = [
     {
       image: Portfolio8,
       techStack: 'Streamlit, Pandas, Altair',
+      source: 'https://c-level.streamlit.app/',
+    },
+    {
+      image: Portfolio9,
+      techStack: 'Streamlit, PuLP, Gurobi, Leafmap, Folium',
       source: 'https://c-level.streamlit.app/',
     },
   ];
