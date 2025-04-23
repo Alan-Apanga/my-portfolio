@@ -56,7 +56,7 @@ const portfolioItems = [
     {
       image: Portfolio9,
       techStack: 'Streamlit, PuLP, Gurobi, Leafmap, Folium',
-      source: 'https://c-level.streamlit.app/',
+      source: 'https://supply-network.streamlit.app/',
     },
   ];
 
