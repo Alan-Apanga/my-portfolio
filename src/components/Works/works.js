@@ -10,6 +10,7 @@ import Portfolio7 from '../../assets/portfolio-7.png';
 import Portfolio8 from '../../assets/portfolio-8.png';
 import Portfolio9 from '../../assets/portfolio-9.png';
 import Portfolio10 from '../../assets/portfolio-10.png';
+import Portfolio11 from '../../assets/portfolio-11.png';
 
 
 
@@ -64,6 +65,11 @@ const portfolioItems = [
       image: Portfolio10,
       techStack: 'Streamlit, PuLP, Gurobi, Leafmap, Folium',
       source: 'https://dock-scheduler.streamlit.app/',
+    },
+    {
+      image: Portfolio11,
+      techStack: 'Streamlit, PuLP, Gurobi, Pandas',
+      source: 'https://staff-scheduler.streamlit.app/',
     },
   ];
 
