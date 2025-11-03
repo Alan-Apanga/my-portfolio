@@ -20,7 +20,7 @@ const portfolioItems = [
     {
       image: Portfolio12,
       techStack: 'Streamlit, PuLP, Gurobi, Pandas',
-      source: 'https://staff-scheduler.streamlit.app/',
+      source: 'https://github.com/Alan-Apanga/pricing-optimization-brent',
     },
     {
       image: Portfolio3,
