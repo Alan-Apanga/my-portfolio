@@ -11,20 +11,16 @@ import Portfolio8 from '../../assets/portfolio-8.png';
 import Portfolio9 from '../../assets/portfolio-9.png';
 import Portfolio10 from '../../assets/portfolio-10.png';
 import Portfolio11 from '../../assets/portfolio-11.png';
+import Portfolio12 from '../../assets/portfolio-12.png';
 
 
 
 
 const portfolioItems = [
     {
-      image: Portfolio1,
-      techStack: 'Streamlit, Pandas, Numpy',
-      source: 'https://www.linkedin.com/posts/alan-apanga_operationsresearch-inventorymanagement-supplychainoptimization-activity-7198115687079284736-pWcV?utm_source=share&utm_medium=member_desktop',
-    },
-    {
-      image: Portfolio2,
-      techStack: 'Python, Gurobi, PuLP',
-      source: 'https://github.com/Alan-Apanga/Capacitated-Facility-Location-Problem',
+      image: Portfolio12,
+      techStack: 'Streamlit, PuLP, Gurobi, Pandas',
+      source: 'https://staff-scheduler.streamlit.app/',
     },
     {
       image: Portfolio3,
@@ -32,9 +28,29 @@ const portfolioItems = [
       source: 'https://github.com/Alan-Apanga/Demand-Forecasting',
     },
     {
+      image: Portfolio9,
+      techStack: 'Streamlit, PuLP, Gurobi, Leafmap, Folium',
+      source: 'https://supply-network.streamlit.app/',
+    },
+    {
+      image: Portfolio1,
+      techStack: 'Streamlit, Pandas, Numpy',
+      source: 'https://www.linkedin.com/posts/alan-apanga_operationsresearch-inventorymanagement-supplychainoptimization-activity-7198115687079284736-pWcV?utm_source=share&utm_medium=member_desktop',
+    },
+    {
       image: Portfolio4,
       techStack: 'Monte Carlo, SimPy, Markov Chain',
       source: 'https://github.com/Alan-Apanga/Queue_simulation',
+    },
+    {
+      image: Portfolio6,
+      techStack: 'Numpy, Pandas, PlotlyExpress',
+      source: 'https://github.com/Alan-Apanga/Sustainability-Reporting',
+    },
+    {
+      image: Portfolio2,
+      techStack: 'Python, Gurobi, PuLP',
+      source: 'https://github.com/Alan-Apanga/Capacitated-Facility-Location-Problem',
     },
     {
       image: Portfolio5,
@@ -42,9 +58,9 @@ const portfolioItems = [
       source: 'https://github.com/Alan-Apanga/BLENDING-PROBLEM',
     },
     {
-      image: Portfolio6,
-      techStack: 'Numpy, Pandas, PlotlyExpress',
-      source: 'https://github.com/Alan-Apanga/Sustainability-Reporting',
+      image: Portfolio10,
+      techStack: 'Streamlit, PuLP, Gurobi, Leafmap, Folium',
+      source: 'https://dock-scheduler.streamlit.app/',
     },
     {
       image: Portfolio7,
@@ -57,20 +73,12 @@ const portfolioItems = [
       source: 'https://c-level.streamlit.app/',
     },
     {
-      image: Portfolio9,
-      techStack: 'Streamlit, PuLP, Gurobi, Leafmap, Folium',
-      source: 'https://supply-network.streamlit.app/',
-    },
-    {
-      image: Portfolio10,
-      techStack: 'Streamlit, PuLP, Gurobi, Leafmap, Folium',
-      source: 'https://dock-scheduler.streamlit.app/',
-    },
-    {
       image: Portfolio11,
       techStack: 'Streamlit, PuLP, Gurobi, Pandas',
       source: 'https://staff-scheduler.streamlit.app/',
     },
+    
+    
   ];
 
 
