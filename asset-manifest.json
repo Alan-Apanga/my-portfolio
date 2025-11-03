@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.71890e7a.css",
-    "main.js": "/my-portfolio/static/js/main.87d431eb.js",
+    "main.js": "/my-portfolio/static/js/main.566daff1.js",
     "static/media/image.png": "/my-portfolio/static/media/image.3b71725ba6a72dbc8c97.png",
     "static/media/portfolio-2.png": "/my-portfolio/static/media/portfolio-2.7f3cdd661cc4c004c11a.png",
-    "static/media/portfolio-10.png": "/my-portfolio/static/media/portfolio-10.32e80facf7f613aa2167.png",
+    "static/media/portfolio-12.png": "/my-portfolio/static/media/portfolio-12.1ec0d68d710dc16ff590.png",
     "static/media/portfolio-6.png": "/my-portfolio/static/media/portfolio-6.6cbab3e6de0dd9341480.png",
+    "static/media/portfolio-5.png": "/my-portfolio/static/media/portfolio-5.ebb7bab20ffe13becb46.png",
+    "static/media/portfolio-10.png": "/my-portfolio/static/media/portfolio-10.e41a5fcdee44c72c965c.png",
     "static/media/portfolio-9.png": "/my-portfolio/static/media/portfolio-9.6f48db0a0e3996b6e6bf.png",
-    "static/media/portfolio-3.png": "/my-portfolio/static/media/portfolio-3.675f08ecb2d82a22cc75.png",
     "static/media/portfolio-8.png": "/my-portfolio/static/media/portfolio-8.a7dab2c932bf45b69cb9.png",
+    "static/media/portfolio-1.png": "/my-portfolio/static/media/portfolio-1.a32952cf38d85680e992.png",
     "static/media/portfolio-4.png": "/my-portfolio/static/media/portfolio-4.6652bceb49339f90fbe1.png",
     "static/media/portfolio-11.png": "/my-portfolio/static/media/portfolio-11.4d27bc1e8eb95b12b1f7.png",
-    "static/media/portfolio-1.png": "/my-portfolio/static/media/portfolio-1.69679fb753709a663ad3.png",
     "static/media/portfolio-7.png": "/my-portfolio/static/media/portfolio-7.46d10454fd87e86bf9dc.png",
-    "static/media/portfolio-5.png": "/my-portfolio/static/media/portfolio-5.087ac8b78413b6e0d357.png",
+    "static/media/portfolio-3.png": "/my-portfolio/static/media/portfolio-3.09553ba600f8668071fa.png",
     "static/media/workforce.png": "/my-portfolio/static/media/workforce.80244d167f3c5ba7e239.png",
     "static/media/app-design.png": "/my-portfolio/static/media/app-design.e9add4ed6922262805af.png",
     "static/media/production.png": "/my-portfolio/static/media/production.c441793b768dab26161a.png",
@@ -28,10 +29,10 @@
     "static/media/instagram.png": "/my-portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/my-portfolio/index.html",
     "main.71890e7a.css.map": "/my-portfolio/static/css/main.71890e7a.css.map",
-    "main.87d431eb.js.map": "/my-portfolio/static/js/main.87d431eb.js.map"
+    "main.566daff1.js.map": "/my-portfolio/static/js/main.566daff1.js.map"
   },
   "entrypoints": [
     "static/css/main.71890e7a.css",
-    "static/js/main.87d431eb.js"
+    "static/js/main.566daff1.js"
   ]
 }
