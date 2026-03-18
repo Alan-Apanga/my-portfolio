@@ -12,7 +12,13 @@ const Skills = () => {
     return (
         <section id='skills'>
             <span className="skillTitle">What I do</span>
-            <span className="skillDesc">I am an innovative Data Scientist specializing in Supply Chain Optimization, I bring expertise in a comprehensive range of technologies to drive actionable insights and optimize decision-making processes. My expertise lies in developing mathematical, machine learning and deep learning models to optimize resources and maximize revenue. I am proficient in data management tools like SQL, Pandas , Numpy, as well as mathematical modelling tools like AMPL, MATLAB, SimPy, TensorFlow and Keras, and optimization tools such as OR-Tools, Gurobi, PuLP, IBM ILOG CPLEX.</span>
+            <span className="skillDesc">
+            I am a Data Scientist specializing in Supply Chain Optimization, with expertise in machine learning, deep learning, and operations research to solve complex business problems and drive better decision-making. My work focuses on building mathematical and predictive models that optimize resources, improve operational efficiency, and maximize revenue.
+            <br /><br />
+            My background includes operations research techniques such as linear programming, process simulation, resource planning, graph theory, algorithm development, experimental design, Bayesian methods, and statistical modeling, implemented using tools such as OR-Tools, Gurobi, and PuLP/CBC.
+            <br /><br />
+            I also develop production-ready machine learning solutions across supervised and unsupervised learning, reinforcement learning, time series forecasting, neural networks, pricing models, and recommender systems. In addition, I am experienced with SQL, Docker, FastAPI and Kubernetes, enabling scalable, end-to-end deployment of data-driven solutions.
+            </span>
             <div className="skillBars">
                 <div className="skillBar">
                     <img src={UIDesign} alt="UIDesign" className="skillBarImg" />
