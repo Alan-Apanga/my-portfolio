@@ -65,12 +65,14 @@ const portfolioItems = [
     {
       image: Portfolio7,
       techStack: 'Streamlit, Pandas, Altair',
-      source: 'https://operations-dashboard.streamlit.app/',
+      source: 'https://github.com/Alan-Apanga/price-prediction',
+      
     },
     {
       image: Portfolio8,
       techStack: 'Streamlit, Pandas, Altair',
-      source: 'https://c-level.streamlit.app/',
+      source: 'https://operations-dashboard.streamlit.app/',
+      
     },
     {
       image: Portfolio11,
@@ -95,7 +97,7 @@ const Works = () => {
                     <img src={item.image} alt="" className="worksImg" />
                     <div className="worksInfo">
                     <p className="techStack">{item.techStack}</p>
-                    <a href={item.source} className="sourceLink">Source</a>
+                    <a href={item.source} className="sourceLink">Link</a>
                     </div>
                 </div>
                 ))}
