@@ -97,7 +97,7 @@ const Works = () => {
                     <img src={item.image} alt="" className="worksImg" />
                     <div className="worksInfo">
                     <p className="techStack">{item.techStack}</p>
-                    <a href={item.source} className="sourceLink">Link</a>
+                    <a href={item.source} className="sourceLink">click here</a>
                     </div>
                 </div>
                 ))}
